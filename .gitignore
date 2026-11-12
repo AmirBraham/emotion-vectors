@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+
+# Cached activations (48 MB, rebuilt by notebooks/02_emotion_vectors.ipynb section 3)
+data/story_acts.pt
+
+# Not for release: blog source material and personal working notes
+blog/
+notes.md
+
+# Unrelated benchmark logs (hardware details)
+outputs/cli/
