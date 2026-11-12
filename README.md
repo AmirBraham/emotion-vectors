@@ -1,4 +1,4 @@
-# emotion-vectors
+# emotions-paper-on-qwen
 
 A reproduction of Anthropic's paper [Emotion Concepts and their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html) on an open model, `Qwen/Qwen3.5-4B`.
 
